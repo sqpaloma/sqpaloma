@@ -24,33 +24,12 @@ I enjoy turning ideas into **scalable digital products**.
 
 ---
 
-## Tech Stack
-
-**Frontend**
-- React
-- Next.js
-- TypeScript
-
-**Mobile**
-- Expo
-- React Native
-
-**Backend**
-- Node.js
-- Convex
-
-**Tools**
-- Vercel
-- Git
-- Figma
-
----
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sqpaloma&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqpaloma&layout=compact)
 
 ---
 
