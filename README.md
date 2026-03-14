@@ -32,8 +32,6 @@ I enjoy turning ideas into **scalable digital products**.
 
 ---
 
----
-
 ## Connect with me
 
 🌐 https://www.upcraftcrew.com  
