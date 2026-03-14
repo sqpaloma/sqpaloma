@@ -27,7 +27,6 @@ I enjoy turning ideas into **scalable digital products**.
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sqpaloma&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqpaloma&layout=compact)
 
