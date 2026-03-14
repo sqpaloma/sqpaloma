@@ -65,7 +65,6 @@ Currently building digital products at <strong>Upcraft Crew</strong>, focusing o
 
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sqpaloma&show_icons=true&theme=default" />
 
 <br><br>
 
