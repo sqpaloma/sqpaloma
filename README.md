@@ -32,17 +32,6 @@ I enjoy turning ideas into **scalable digital products**.
 
 ---
 
-## Current Focus
-
-🚀 Building digital products at **Upcraft Crew**
-
-Projects include:
-
-- Web platforms
-- SaaS tools
-- Mobile apps
-- AI powered tools
-
 ---
 
 ## Connect with me
